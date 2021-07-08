@@ -28,7 +28,7 @@ module.exports = {
         'no-autoreply',
       ],
     },
-  ],
+        {
        type: 'category',
       label: 'Emails',
       items: ['move-to-inbox-gmail', 'subscribed-but-not-receiving-emails'],
