@@ -65,8 +65,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Status',
+              to: 'https://status.northoffalydojo.xyz',
             },
             {
               label: 'GitHub',
