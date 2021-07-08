@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'North Offaly CoderDojo Docs',
+  tagline: 'Get answers to most frequently asked questions from North Offaly Dojo.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'https://northoffalydojo.xyz/app/uploads/2021/05/NorthOffalyDojoNEW-Roundel.png',
+  organizationName: 'northoffalydojo', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'North Offaly CoderDojo',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'North Offaly Dojo Roundel',
+        src: 'https://northoffalydojo.xyz/app/uploads/2021/05/NorthOffalyDojoNEW-Roundel.png',
       },
       links: [
         {
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/northoffalydojo/docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -45,19 +45,19 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Links',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Main website',
+              href: 'https://northoffalydojo.xyz',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Submit a request',
+              href: 'https://portal.northoffalydojo.xyz/support/#/tickets/new',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Book a ticket',
+              href: 'https://northoffalydojo.xyz/sessions',
             },
           ],
         },
@@ -70,12 +70,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/northoffalydojo/docs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} North Offaly Dojo. Built with Docusaurus and powered by Vercel.`,
     },
   },
   presets: [
