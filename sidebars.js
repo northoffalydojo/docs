@@ -8,7 +8,7 @@ module.exports = {
       type: 'category',
       label: 'Online sessions',
       items: [
-        'what-does-my-child-learn','registration-process', 'age', 'invalid-email', 'session-duration'
+        'what-does-my-child-learn','registration-process', 'age', 'invalid-email', 'session-duration',
         {
           Booking: [
             'cant-book-ticket',
@@ -24,9 +24,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Getting in touch',
-      items: [
-        'no-autoreply',
-      ],
+      items: ['no-autoreply'],
     },
         {
        type: 'category',
