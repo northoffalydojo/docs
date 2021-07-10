@@ -1,5 +1,10 @@
 module.exports = {
     mySidebar: [
+     {
+            type: 'category',
+            label: 'Introduction',
+            items: ['what-is-north-offaly-dojo'],
+          },
       {
         type: 'category',
         label: 'In person sessions',
@@ -13,12 +18,12 @@ module.exports = {
       {
         type: 'category',
         label: 'Booking',
-        items: ['online-sessions/booking/cant-book-ticket', 'online-sessions/booking/minimum-tickets-2', 'online-sessions/booking/booking-link'],
+        items: ['online-sessions/booking/cant-book-ticket', 'online-sessions/booking/minimium-tickets-2', 'online-sessions/booking/booking-link'],
       },
       {
         type: 'category',
         label: 'Volunteering',
-        items: ['volunteering/volunteering-without-garda-vetting', 'volunteering/garda-vetting-process', 'volunteering/volunteering-with-north-offaly-dojo'],
+        items: ['volunteering/volunteering-without-garda-vetting', 'volunteering/garda-vetting-process', 'volunteering/how-to-volunteer'],
       },
       {
         type: 'category',
