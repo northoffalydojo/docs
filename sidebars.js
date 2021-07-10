@@ -28,7 +28,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Emails',
-        items: ['emails/move-to-inbox-gmail', 'emails/subscribed-but-not-receiving-emails'],
+        items: ['emails/move-to-inbox-gmail'],
       },
     ],
   };
