@@ -18,7 +18,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Volunteering',
-        items: ['volunteering/volunteering-without-garda-vetting', 'volunteering/garda-vetting-process', 'volunteering/how-to-volunteer'],
+        items: ['volunteering/volunteering-without-garda-vetting', 'volunteering/garda-vetting-process', 'volunteering/volunteering-with-north-offaly-dojo'],
       },
       {
         type: 'category',
