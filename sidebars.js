@@ -13,7 +13,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Booking',
-      items: ['booking/cant-book-ticket', 'booking/minimium-tickets-2', 'booking/latest-booking-link'],
+      items: ['booking/cant-book-ticket', 'booking/minimium-tickets-2'],
     },
   ],
 };
