@@ -8,7 +8,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Docusaurus',
-      items: ['doc2', 'doc3'],
+      items: ['booking-link', 'doc3'],
     },
   ],
 };
