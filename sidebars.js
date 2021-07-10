@@ -13,7 +13,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Booking',
-        items: ['online-sessions/booking/cant-book-ticket', 'online-sessions/booking/minimium-tickets-2', 'online-sessions/booking/booking-link'],
+        items: ['online-sessions/booking/cant-book-ticket', 'online-sessions/booking/minimum-tickets-2', 'online-sessions/booking/booking-link'],
       },
       {
         type: 'category',
