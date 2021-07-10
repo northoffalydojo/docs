@@ -10,4 +10,4 @@ Any booking links will require that parents book a minimum of 2 tickets - one fo
 
 The below GIF walks through the new process. 
 
-![GIF of Booking process for booking 2 tickets](https://i.postimg.cc/MZckV5nH/new-booking-guide.gif 'Logo Title Text 1')
+![GIF of Booking process for booking 2 tickets](https://i.postimg.cc/MZckV5nH/new-booking-guide.gif)
