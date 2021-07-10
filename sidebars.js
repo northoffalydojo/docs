@@ -8,7 +8,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Booking',
-      items: ['booking-link', 'doc3'],
+      items: ['online-sessions/booking/booking-link', 'doc3'],
     },
   ],
 };
