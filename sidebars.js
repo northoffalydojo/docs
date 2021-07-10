@@ -1,6 +1,14 @@
 module.exports = {
-  someSidebar: {
-    Useful: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-  },
+  mySidebar: [
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: ['doc1'],
+    },
+    {
+      type: 'category',
+      label: 'Docusaurus',
+      items: ['doc2', 'doc3'],
+    },
+  ],
 };
