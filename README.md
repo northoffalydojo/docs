@@ -1,17 +1,11 @@
-# Docusaurus Example
+# North Offaly CoderDojo Documentation
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed with Vercel and zero configuration.
+This site contains documentaiton that answers all the frequently asked questions we get from parents and members of the public.
 
-## Deploy Your Own
+## Contributions
 
-Deploy your own Docusaurus project with Vercel.
+We welcome community contributions to keep our documentation up to date! You can contribute by forking this repository and then suggesting changes. 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/main/docusaurus-2)
+### Credits
 
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-$ npx @docusaurus/init@next init my-website classic
-```
+This site was built with Docusaurus, and is hosted by Vercel. Patrick O'Brien built the website and composed the documentation. 
