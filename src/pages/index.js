@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Easy to find documentation</>,
-    imageUrl: 'img/hero1.svg',
+    imageUrl: 'https://northoffalydojo.xyz/app/uploads/2021/07/hero-1.svg',
     description: (
       <>
         We've designed this site to make it as easy as possible for you to find quick answers to your questions.
