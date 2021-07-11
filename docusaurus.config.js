@@ -20,7 +20,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'https://northoffalydojo.xyz', label: 'Home', position: 'left'},
         {
           href: 'https://github.com/northoffalydojo/docs',
           label: 'GitHub',
