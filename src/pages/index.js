@@ -8,12 +8,11 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Easy to find documentation</>,
+    imageUrl: 'img/hero1.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We've designed this site to make it as easy as possible for you to find quick answers to your questions.
       </>
     ),
   },
