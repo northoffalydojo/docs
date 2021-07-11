@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: <>Can't find what you're looking for?</>,
-    imageUrl: 'https://northoffalydojo.xyz/app/uploads/2021/07/hero-2.svg',
+    imageUrl: 'https://northoffalydojo.xyz/app/uploads/2021/07/undraw_message_sent_1030.svg',
     description: (
       <>
         No problem. Just submit a request! 
