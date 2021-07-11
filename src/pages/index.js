@@ -26,12 +26,11 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Make edits!</>,
+    imageUrl: 'https://northoffalydojo.xyz/app/uploads/2021/07/undraw_developer_activity_bv83.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        See a mistake? Or have a suggestion for an article? Make contributions in our Github repository!
       </>
     ),
   },
