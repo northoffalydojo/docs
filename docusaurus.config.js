@@ -1,7 +1,7 @@
 module.exports = {
   title: 'North Offaly CoderDojo Docs',
   tagline: 'Get answers to most frequently asked questions from North Offaly Dojo.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.northoffalydojo.xyz',
   baseUrl: '/',
   favicon: 'https://northoffalydojo.xyz/app/uploads/2021/05/NorthOffalyDojoNEW-Roundel.png',
   organizationName: 'northoffalydojo', // Usually your GitHub org/user name.
@@ -20,7 +20,8 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'https://northoffalydojo.xyz', label: 'Home', position: 'left'},
+        {to: 'https://northoffalydojo.xyz', label: 'Main website', position: 'left'},
+        {to: 'https://portal.northoffalydojo.xyz/support/#/tickets/new', label: 'Submit a request', position: 'left'},
         {
           href: 'https://github.com/northoffalydojo/docs',
           label: 'GitHub',
