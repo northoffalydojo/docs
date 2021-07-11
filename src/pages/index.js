@@ -17,12 +17,11 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Can't find what you're looking for?</>,
+    imageUrl: 'https://northoffalydojo.xyz/app/uploads/2021/07/hero-2.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        No problem. Just submit a request! 
       </>
     ),
   },
