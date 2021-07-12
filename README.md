@@ -1,6 +1,6 @@
 # North Offaly CoderDojo Documentation
 
-This site contains documentaiton that answers all the frequently asked questions we get from parents and members of the public.
+This site contains documentation that answers all the frequently asked questions we get from parents and members of the public.
 
 ## Contributions
 
