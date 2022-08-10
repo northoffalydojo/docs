@@ -20,8 +20,8 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'https://northoffalydojo.xyz', label: 'Main website', position: 'left'},
-        {to: 'https://portal.northoffalydojo.xyz/support/#/tickets/new', label: 'Submit a request', position: 'left'},
+        {to: 'https://northoffalydojo.com', label: 'Main website', position: 'left'},
+        {to: 'https://northoffalydojo.freshdesk.com/support/tickets/new', label: 'Submit a request', position: 'left'},
         {
           href: 'https://github.com/northoffalydojo/docs',
           label: 'GitHub',
