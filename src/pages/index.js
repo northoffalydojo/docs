@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Easy to find documentation</>,
-    imageUrl: 'https://northoffalydojo.xyz/app/uploads/2021/07/hero-1.svg',
+    imageUrl: 'http://northoffalydojo.com/wp-content/uploads/2022/08/undraw_file_searching_re_3evy.svg',
     description: (
       <>
         We've designed this site to make it as easy as possible for you to find quick answers to your questions.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: <>Can't find what you're looking for?</>,
-    imageUrl: 'https://northoffalydojo.xyz/app/uploads/2021/07/undraw_message_sent_1030.svg',
+    imageUrl: 'http://northoffalydojo.com/wp-content/uploads/2022/08/undraw_message_sent_re_q2kl.svg',
     description: (
       <>
         No problem. Just submit a request! 
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: <>Make edits!</>,
-    imageUrl: 'https://northoffalydojo.xyz/app/uploads/2021/07/undraw_developer_activity_bv83.svg',
+    imageUrl: 'http://northoffalydojo.com/wp-content/uploads/2022/08/undraw_developer_activity_re_39tg.svg',
     description: (
       <>
         See a mistake? Or have a suggestion for an article? Make contributions in our Github repository!
