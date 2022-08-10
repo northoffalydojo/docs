@@ -88,6 +88,8 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/northoffalydojo/docs/edit/master/website/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
