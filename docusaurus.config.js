@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Get answers to most frequently asked questions from North Offaly Dojo.',
   url: 'https://docs.northoffalydojo.xyz',
   baseUrl: '/',
-  favicon: 'https://northoffalydojo.xyz/app/uploads/2021/05/NorthOffalyDojoNEW-Roundel.png',
+  favicon: 'http://northoffalydojo.com/wp-content/uploads/2021/09/North-Offaly-Roundel-Sept-2021.png',
   organizationName: 'northoffalydojo', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
@@ -11,7 +11,7 @@ module.exports = {
       title: 'North Offaly CoderDojo',
       logo: {
         alt: 'North Offaly Dojo Roundel',
-        src: 'https://northoffalydojo.xyz/app/uploads/2021/05/NorthOffalyDojoNEW-Roundel.png',
+        src: 'http://northoffalydojo.com/wp-content/uploads/2021/09/North-Offaly-Roundel-Sept-2021.png',
       },
       links: [
         {
@@ -50,15 +50,15 @@ module.exports = {
           items: [
             {
               label: 'Main website',
-              href: 'https://northoffalydojo.xyz',
+              href: 'https://northoffalydojo.com',
             },
             {
               label: 'Submit a request',
-              href: 'https://portal.northoffalydojo.xyz/support/#/tickets/new',
+              href: 'https://northoffalydojo.freshdesk.com/support/tickets/new',
             },
             {
               label: 'Book a ticket',
-              href: 'https://northoffalydojo.xyz/sessions',
+              href: 'https://events.humanitix.com/north-offaly-coderdojo-2022-sessions',
             },
           ],
         },
