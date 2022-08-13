@@ -4,4 +4,6 @@ title: Is there a registration process?
 sidebar_label: Is there a registration process?
 ---
 
-No, there is no formal registration process - all you need to do is book a ticket for your child [here](https://northoffalydojo.xyz/sessions). Once you've booked, you'll be added to our mailing list and we'll inform you about future sessions. 
+If you would like to become a member, you can fill out our quick online form [here](https://northoffalydojo.com/register). Membership gives you regular updates from the Dojo, including on booking. 
+
+Otherwise, you can register for sessions on a weekly basis at our [booking site](https://events.humanitix.com/north-offaly-coderdojo-2022-sessions). 
